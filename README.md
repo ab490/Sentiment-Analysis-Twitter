@@ -1,5 +1,5 @@
 # Sentiment-Analysis-Twitter
-ChatGPT has been a major talk in the world and is in the news quite often. Sentiment Analysis is done on tweets to identify the sentiments of people towards chatGPT. Used the data available on Kaggle to create this machine learning model. The different sentiments identified include positive sentiment, negative sentiment and neutral sentiment. Used different classifiers to see which classifier gives the best model accuracy.
+ChatGPT has been a major talk in the world and is in the news quite often. Sentiment Analysis is done on tweets to identify the sentiments of people towards chatGPT. The data available on Kaggle is used to create this machine learning model. The different sentiments identified include positive sentiment, negative sentiment and neutral sentiment. Different classifiers are used to see which classifier gives the best model accuracy.
 
 ## Dataset
 https://www.kaggle.com/datasets/khalidryder777/500k-chatgpt-tweets-jan-mar-2023

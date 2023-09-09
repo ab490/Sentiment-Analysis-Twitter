@@ -10,5 +10,37 @@ https://www.kaggle.com/datasets/khalidryder777/500k-chatgpt-tweets-jan-mar-2023
 - Regex function is used to remove special characters in the content of tweets and PorterStemmer is used for stemming.
 - TextBlob is used for calculating polarity and sentiment.
 
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Visualization
+
+## Model
+The data is trained on 2 models - 
+<br> (i) Logistic Regression
+<br> (ii) Support Vector Machine (SVM)
+
+### 1. Logistic Regression
+Test accuracy: 96.93%
+
+After hyperparameter tuning
+<br> Test accuracy: 97.19%
+
+Confusion Matrix: 
+
+### 2. Support Vector Machine (SVM)
+Test accuracy: 
+
+After hyperparameter tuning
+<br> Test accuracy: 
+
+Confusion Matrix: 
+
+## Conclusion
+- Hyperparameter tuned SVM gives best model accuracy.
+- Most of the people feel positive about chatGPT.
+
+
+
+
 
 

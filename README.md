@@ -20,18 +20,18 @@ The data is trained on 2 models -
 <br> (ii) Support Vector Machine (SVM)
 
 ### 1. Logistic Regression
-Test accuracy: 96.93%
+Test accuracy: 85.98%
 
 After hyperparameter tuning
-<br> Test accuracy: 97.19%
+<br> Test accuracy: 86.89%
 
 Confusion Matrix: 
 
 ### 2. Support Vector Machine (SVM)
-Test accuracy: 
+Test accuracy: 87.92%
 
 After hyperparameter tuning
-<br> Test accuracy: 
+<br> Test accuracy: 88.04%
 
 Confusion Matrix: 
 

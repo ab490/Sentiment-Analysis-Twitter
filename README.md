@@ -10,14 +10,14 @@ https://www.kaggle.com/datasets/khalidryder777/500k-chatgpt-tweets-jan-mar-2023
 - Regex function is used to remove special characters in the content of tweets and PorterStemmer is used for stemming.
 - TextBlob is used for calculating polarity and sentiment.
 
-![Table](/images/Capture.JPG)
+<img src="/images/Capture.JPG" width="500">
 
 ## Visualization
-![Bar Graph](/images/Capture1.JPG)<br>
-![Pie Chart](/images/Capture2.JPG)<br>
-![Positive](/images/Capture3.JPG)<br>
-![Neutral](/images/Capture4.JPG)<br>
-![Negative](/images/Capture5.JPG)<br>
+<img src="/images/Capture1.JPG" width="500"><br>
+<img src="/images/Capture2.JPG" width="500"><br>
+<img src="/images/Capture3.JPG" width="600"><br>
+<img src="/images/Capture4.JPG" width="600"><br>
+<img src="/images/Capture5.JPG" width="600"><br>
 
 ## Model
 The data is trained on 2 models - 
@@ -31,10 +31,10 @@ After hyperparameter tuning
 <br> Test accuracy: 86.89%
 
 Classification Report: <br>
-![Report](/images/Capture6.JPG)<br>
+<img src="/images/Capture6.JPG" width="500"><br>
 
 Confusion Matrix:<br> 
-![Matrix](/images/Capture7.JPG)<br>
+<img src="/images/Capture7.JPG" width="500"><br>
 
 ### 2. Support Vector Machine (SVM)
 Test accuracy: 87.92%
@@ -43,10 +43,10 @@ After hyperparameter tuning
 <br> Test accuracy: 88.04%
 
 Classification Report:<br>
-![Report](/images/Capture8.JPG)<br>
+<img src="/images/Capture8.JPG" width="500"><br>
 
 Confusion Matrix: <br>
-![Matrix](/images/Capture9.JPG)<br>
+<img src="/images/Capture9.JPG" width="500"><br>
 
 ## Conclusion
 - Hyperparameter tuned SVM gives best model accuracy.

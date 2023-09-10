@@ -30,9 +30,10 @@ Test accuracy: 85.98%
 After hyperparameter tuning
 <br> Test accuracy: 86.89%
 
-Confusion Matrix: 
-
+Classification Report: <br>
 ![Report](/images/Capture6.JPG)<br>
+
+Confusion Matrix:<br> 
 ![Matrix](/images/Capture7.JPG)<br>
 
 ### 2. Support Vector Machine (SVM)
@@ -41,9 +42,10 @@ Test accuracy: 87.92%
 After hyperparameter tuning
 <br> Test accuracy: 88.04%
 
-Confusion Matrix: 
-
+Classification Report:<br>
 ![Report](/images/Capture8.JPG)<br>
+
+Confusion Matrix: <br>
 ![Matrix](/images/Capture9.JPG)<br>
 
 ## Conclusion
